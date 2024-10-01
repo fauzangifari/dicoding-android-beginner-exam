@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Daftar Buah</string>
+
+    <string name="fruits_name">Nama Buah-Buahan</string>
+    <string name="fruits_desc">Deskripsi Buah-Buahan</string>
+    <string-array name="fruits_data_name">
+        <item>Apel</item>
+        <item>Pisang</item>
+        <item>Blueberi</item>
+        <item>Lemon</item>
+        <item>Leci</item>
+        <item>Mangga</item>
+        <item>Jeruk</item>
+        <item>Nanas</item>
+        <item>Stroberi</item>
+        <item>Semangka</item>
+    </string-array>
+    <string-array name="fruits_data_description">
+        <item>Apel merupakan buah yang populer dengan berbagai variasi warna kulit seperti merah, hijau, dan kuning. Daging buahnya renyah dan memiliki rasa manis yang menyegarkan, dengan sedikit perbedaan rasa tergantung jenisnya. Apel sering dimakan langsung atau diolah menjadi berbagai makanan dan minuman seperti jus, salad, atau pai.</item>
+        <item>Pisang memiliki kulit berwarna kuning dengan daging buah yang lembut dan manis. Buah ini sangat mudah ditemukan di berbagai daerah tropis dan sering dijadikan sebagai makanan ringan atau bahan dasar smoothies, kue, dan dessert. Teksturnya yang lembut menjadikannya pilihan yang baik untuk semua usia, mulai dari anak-anak hingga lansia.</item>
+        <item>Blueberi adalah buah kecil dengan warna biru keunguan yang sangat menarik. Buah ini sering digunakan dalam makanan penutup, smoothie, atau dikonsumsi langsung karena rasanya yang manis dengan sedikit asam. Blueberi sering dianggap sebagai salah satu buah superfood karena kandungan nutrisinya yang tinggi.</item>
+        <item>Lemon adalah buah berwarna kuning cerah dengan rasa asam yang kuat. Buah ini sering digunakan sebagai bahan penyegar dalam minuman seperti limun atau sebagai pelengkap dalam berbagai masakan untuk menambah cita rasa. Lemon juga sering digunakan dalam perawatan kecantikan karena manfaatnya untuk kulit.</item>
+        <item>Leci memiliki kulit yang kasar dengan warna merah muda, daging buahnya berwarna putih transparan, bertekstur lembut, dan rasanya sangat manis. Leci sering dikonsumsi segar atau diolah menjadi minuman dan makanan penutup yang menyegarkan.</item>
+        <item>Mangga adalah buah tropis dengan bentuk lonjong, kulit berwarna hijau, kuning, atau oranye, tergantung tingkat kematangannya. Daging buahnya berwarna kuning atau oranye, lembut, manis, dan terkadang sedikit asam. Mangga sering dikonsumsi segar atau diolah menjadi jus, salad, dan berbagai hidangan lainnya.</item>
+        <item>Jeruk adalah buah dengan kulit berwarna oranye terang dan daging buah berwarna kuning atau oranye. Buah ini memiliki rasa manis atau sedikit asam, dan sangat populer sebagai buah segar maupun jus. Jeruk sering dikonsumsi sebagai camilan sehat atau sebagai pelengkap dalam berbagai makanan.</item>
+        <item>Nanas adalah buah tropis dengan kulit berduri dan kasar, daging buahnya berwarna kuning cerah. Rasanya manis dengan sedikit asam, dan sangat menyegarkan. Nanas sering digunakan dalam berbagai hidangan dan minuman, termasuk jus, salad buah, dan topping pizza.</item>
+        <item>Stroberi adalah buah kecil berwarna merah cerah dengan bintik-bintik biji di permukaannya. Rasanya manis dengan sedikit asam, menjadikannya populer dalam berbagai hidangan penutup, salad, dan minuman. Stroberi juga sering digunakan dalam industri kosmetik karena manfaatnya untuk kulit.</item>
+        <item>Semangka adalah buah besar dengan kulit hijau tebal dan daging buah berwarna merah yang berair. Rasanya sangat manis dan menyegarkan, terutama saat dikonsumsi pada hari-hari panas. Semangka sering dimakan segar atau diolah menjadi jus.</item>
+    </string-array>
+    <string-array name="fruits_data_benefit">
+        <item>Apel kaya akan serat yang baik untuk pencernaan, vitamin C yang berperan sebagai antioksidan, serta berbagai nutrisi lainnya yang membantu menjaga kesehatan jantung, menurunkan risiko diabetes, dan menjaga berat badan.</item>
+        <item>Pisang adalah sumber kalium yang sangat baik, membantu menjaga kesehatan jantung dan mengatur tekanan darah. Selain itu, pisang juga mengandung vitamin B6 dan serat yang mendukung kesehatan pencernaan dan memberi energi instan.</item>
+        <item>Blueberi sangat kaya akan antioksidan, terutama anthocyanin, yang membantu melindungi tubuh dari radikal bebas, meningkatkan kesehatan otak, memperlambat penuaan, serta mendukung kesehatan jantung.</item>
+        <item>Lemon kaya akan vitamin C yang sangat baik untuk meningkatkan sistem kekebalan tubuh, mendukung kesehatan kulit, dan berperan dalam detoksifikasi alami tubuh. Selain itu, lemon juga membantu pencernaan dan dapat berfungsi sebagai antioksidan.</item>
+        <item>Leci kaya akan vitamin C, yang membantu meningkatkan sistem kekebalan tubuh. Buah ini juga mengandung antioksidan yang baik untuk melawan radikal bebas serta mendukung kesehatan kulit dan pencernaan.</item>
+        <item>Mangga kaya akan vitamin A yang baik untuk kesehatan mata, serta vitamin C yang berfungsi sebagai antioksidan untuk melindungi tubuh dari radikal bebas. Mangga juga mendukung kesehatan kulit dan pencernaan.</item>
+        <item>Jeruk kaya akan vitamin C yang penting untuk menjaga kesehatan kulit, meningkatkan sistem kekebalan tubuh, dan melawan infeksi. Buah ini juga mengandung serat yang baik untuk pencernaan serta berperan dalam menjaga kesehatan jantung.</item>
+        <item>Nanas kaya akan vitamin C dan enzim bromelain yang membantu pencernaan dan mengurangi peradangan. Kandungan nutrisinya juga membantu memperkuat sistem kekebalan tubuh dan menjaga kesehatan kulit.</item>
+        <item>Stroberi kaya akan vitamin C dan antioksidan yang membantu melawan penuaan, meningkatkan kesehatan kulit, serta mendukung sistem kekebalan tubuh. Kandungan seratnya juga baik untuk pencernaan.</item>
+        <item>Semangka mengandung banyak air, sehingga sangat baik untuk menjaga tubuh tetap terhidrasi. Buah ini juga kaya akan vitamin A dan C, yang mendukung kesehatan kulit dan meningkatkan sistem kekebalan tubuh.</item>
+    </string-array>
+    <integer-array name="fruits_data_photo">
+        <item>@drawable/apple</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/blueberry</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/lychee</item>
+        <item>@drawable/mango</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/pineapple</item>
+        <item>@drawable/strawberry</item>
+        <item>@drawable/watermelon</item>
+    </integer-array>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="back_button">Kembali</string>
+    <string name="user">user</string>
+    <string name="title_activity_about">Tentang Saya</string>
+    <string name="title_activity_details">Detail Buah</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+    <string name="title_name">Muhammad Fauzan Gifari Dzul Fahmi</string>
+    <string name="title_email">fauzan.gifari30@gmail.com</string>
+    <string name="fruits_benefit">Manfaat Buah-Buahan</string>
+</resources>
